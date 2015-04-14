@@ -1,2 +1,2 @@
 # test-repo3
-demo2
+*demo2
